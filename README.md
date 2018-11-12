@@ -12,7 +12,7 @@ CyberAgent Kyotohack2018で制作したandroidアプリケーションのAPI
 使用技術はGolang(gin),gorm,MySQL
 
 ## Demo
-ホーム画面https://user-images.githubusercontent.com/30918932/48322075-0256d600-e669-11e8-93b1-89b35264bfeb.png  
-タグ検索https://user-images.githubusercontent.com/30918932/48322087-1569a600-e669-11e8-83cb-b486d5722d7e.png  
-検索結果https://user-images.githubusercontent.com/30918932/48322090-17336980-e669-11e8-80fa-6b724d108313.png  
-コンテンツ画面https://user-images.githubusercontent.com/30918932/48322077-0a167a80-e669-11e8-8784-fe80c4243c0c.png
+ホーム画面：https://user-images.githubusercontent.com/30918932/48322075-0256d600-e669-11e8-93b1-89b35264bfeb.png  
+タグ検索：https://user-images.githubusercontent.com/30918932/48322087-1569a600-e669-11e8-83cb-b486d5722d7e.png  
+検索結果：https://user-images.githubusercontent.com/30918932/48322090-17336980-e669-11e8-80fa-6b724d108313.png  
+コンテンツ画面：https://user-images.githubusercontent.com/30918932/48322077-0a167a80-e669-11e8-8784-fe80c4243c0c.png
